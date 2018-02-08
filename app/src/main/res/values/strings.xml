@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Functional Prototype V1</string>
+    <string name="action_settings">Settings</string>
+    <string name="entryPage">Add New Project Entry</string>
+    <string name="blogTitle">Title</string>
+    <string name="blogImage">Image</string>
+    <string name="blogContent">Entry Content</string>
+    <string name="buttonText">Submit</string>
+    <string name="activityTitle">Project Blog</string>
+    <string name="newPost">New Entry</string>
+    <string name="splash">Splash Image</string>
+</resources>
